@@ -7,7 +7,6 @@ select name, city
 from agents
 where name = 'Smith';
 
-
 -- Q2 --
 select pid, name, quantity
 from products
